@@ -1,1 +1,1 @@
-# agentic-coding-playground
+# Agentic Coding - Playground
